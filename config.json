@@ -1,0 +1,13 @@
+{
+    "develompent": {
+        "username": "root",
+        "password": "",
+        "database": "burger_sequelize_db",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "production": {
+        "use_env_variables": "JAWSDB",
+        "dialect": "mysql"
+    }
+}
